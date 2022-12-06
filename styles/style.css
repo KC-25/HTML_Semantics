@@ -1,0 +1,54 @@
+body{
+    margin-top: 3%;
+    background-color: #bae9ff;
+    font-family: 'Permanent Marker', cursive;
+    color: pink;
+    font-size:x-large;
+}
+p{
+    width: 40%;
+    display: inline-block;
+}
+section{
+    display: inline;
+    vertical-align: top;
+    margin-left: 7%;
+}
+nav ul li{
+    display: inline;
+    margin-bottom: 5%;
+margin-top: 5%;
+margin-left: 22%;
+}
+a{
+    color:#bae9ff;
+    text-decoration: none;
+}
+li{
+    margin: 5%;
+    margin-left: 25%;
+    background-color: pink;
+    padding: 1%;
+    border-radius: 30px;
+    border: solid 5px rgb(248, 136, 155);
+}
+h1{
+    display: inline;
+    margin-left: 40%;
+    margin-right: 33%;
+   
+}
+img{
+    display: inline;
+    margin-left: 18.5%;
+    margin-bottom: 5%;
+    width: 50%;
+    height: 25%;
+    border-radius: 30px;
+    border: solid 5px rgb(248, 136, 155);
+}
+
+footer{
+    text-align: center;
+    margin-bottom: center;
+}
